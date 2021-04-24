@@ -1,11 +1,11 @@
 # no-rest-for-weary
-Keep a free tier heroku app from sleeping
+-- Keep a free tier heroku app from sleeping --
 
-Assumptions
+**Assumptions**
 - You have Chrome browser installed on your machine
 - You have a recent python 3 release
 
-Steps
+**Steps**
 1. Clone the repo to your environment
 2. Create a virtual environment
     ```python
